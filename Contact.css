@@ -1,6 +1,7 @@
  .u-section-1 {
   background-image: none;
   min-height: 823px;
+  overflow: hidden;
 }
 
 .u-section-1 .u-shape-1 {
