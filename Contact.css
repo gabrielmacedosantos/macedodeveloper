@@ -13,10 +13,11 @@
 .u-section-1 .u-image-1 {
   width: 376px;
   height: 376px;
-  background-image: url("undraw_speech_to_text_re_rw02.svg");
+  background-image: url("imgface.jpg");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: -471px auto 0;
+  filter: grayscale(100%);
  
 }
 
