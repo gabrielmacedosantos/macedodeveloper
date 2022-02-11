@@ -67,6 +67,8 @@
 iframe {
   width: 350px;
   height: 250px;
+  margin: 0;
+  padding: 0;
 }
 
 h2 {
