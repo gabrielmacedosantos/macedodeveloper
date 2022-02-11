@@ -75,6 +75,10 @@ h2 {
   letter-spacing: 2.5px;
 }
 
+h5 {
+  border: none;
+}
+
 p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
