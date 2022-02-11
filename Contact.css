@@ -1,7 +1,7 @@
  .u-section-1 {
   background-image: none;
   min-height: 823px;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .u-section-1 .u-shape-1 {
@@ -108,6 +108,7 @@ p {
 @media (max-width: 575px) {
    .u-section-1 {
     min-height: 798px;
+    overflow: hidden;
   }
 
   .u-section-1 .u-shape-1 {
