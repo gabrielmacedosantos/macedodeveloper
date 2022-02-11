@@ -67,7 +67,7 @@
 iframe {
   width: 350px;
   height: 250px;
-  margin: 0;
+  margin-bottom: 15px;
   padding: 0;
 }
 
