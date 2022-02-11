@@ -77,6 +77,8 @@ h2 {
 
 h5 {
   border: none;
+  padding: 0;
+  margin: 0;
 }
 
 p {
